@@ -12,3 +12,6 @@ feature2_additional
 
 Fixing bug1234
 f2995a8... Fixed bug1234
+
+Another fic to bug1234
+662cc84... Fixed bug1234
